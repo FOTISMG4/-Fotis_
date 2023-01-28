@@ -1,0 +1,43 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+    background-color:black;
+    color:white;
+}
+
+.link-nav1{
+    margin-top: 50px;
+    display: flex;
+    justify-content: left;
+}
+
+
+.link-nav2{
+    margin-top: -5px;
+    display: flex;
+    justify-content: right;
+}
+
+header a{
+    position: absolute;
+    
+    top:0;
+    left:0;
+    text-decoration: none;
+}
+
+img{ 
+    width: 400px;
+    height: 300px;
+}
+
+footer img{
+    width: 30px;
+    height: 40px;
+
+}
+
+li{
+    text-align: left;
+    
+}
